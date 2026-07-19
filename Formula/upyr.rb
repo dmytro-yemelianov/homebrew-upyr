@@ -1,9 +1,9 @@
 class Upyr < Formula
   desc "Private English-Ukrainian keyboard-layout fixer"
   homepage "https://upyr.org/"
-  url "https://github.com/dmytro-yemelianov/upyr/archive/bf3d1dea052cf2bc5b5085ca4ffd3546c79398fa.tar.gz"
+  url "https://crates.io/api/v1/crates/upyr/0.3.0/download"
   version "0.3.0"
-  sha256 "c90d565bf71674c1b69d7a750c19393a9e24ae48a8f2b66d5692f5be2b688c69"
+  sha256 "8613dd8ffe204125abf366714004966cc8ddfd1a9ff7aab3fdea93d04b026b75"
   license "MIT"
   head "https://github.com/dmytro-yemelianov/upyr.git", branch: "main"
 
